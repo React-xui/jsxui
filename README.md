@@ -7,7 +7,9 @@
     
 # 创建一个组件项目
     xui create myui
+
 默认创建的是less样式的，如果是使用sass的，请使用如下命令创建组件
+
     xui create myui sass
 
 # 启动项目
