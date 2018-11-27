@@ -1,0 +1,25 @@
+{
+  "name": "xuitool",
+  "version": "0.0.1",
+  "description": "reactxui-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "xuitool": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/React-xui/jsxui.git"
+  },
+  "keywords": [
+    "react-xui"
+  ],
+  "author": "tianxiangbing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/React-xui/jsxui/issues"
+  },
+  "homepage": "https://github.com/React-xui/jsxui#readme"
+}
